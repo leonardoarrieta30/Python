@@ -1,4 +1,4 @@
 # Python
-I am practicing Python
-No more
-I am programing
+I am practicing Python..
+No more..
+I am programing..
